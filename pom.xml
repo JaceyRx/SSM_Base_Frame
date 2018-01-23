@@ -2,11 +2,11 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.ruanjunxu.mmall</groupId>
-  <artifactId>permission</artifactId>
+  <groupId>com.ruanjunxu</groupId>
+  <artifactId>base</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>permission Maven Webapp</name>
+  <name>base Maven Webapp</name>
   <url>http://maven.apache.org</url>
 
   <!--统一依赖的版本-->
